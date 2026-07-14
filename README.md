@@ -1,8 +1,10 @@
 <h1 data-importer="text" align="center">Hey 👋 What's up?</h1>
 
 ###
+
 <p data-importer="text" align="center">✨ Been programming since 2024<br>📚 I'm currently learning how the computer works and C<br>🎯 Goals: To start programming my own OS.</p>
 ###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
